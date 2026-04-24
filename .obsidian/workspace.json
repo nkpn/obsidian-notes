@@ -11,10 +11,14 @@
             "id": "20d57b8c19ca4287",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "react-lessons/2026-04-24-03-usestate-batching.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-24-03-usestate-batching"
             }
           }
         ]
@@ -179,9 +183,10 @@
   },
   "active": "20d57b8c19ca4287",
   "lastOpenFiles": [
-    "react-lessons/2026-04-24-03-usestate-batching.md",
     "react-lessons/2026-04-24-02-fiber-concurrent-mode.md",
     "react-lessons/2026-04-24-01-reconciliation-virtual-dom.md",
+    "react-lessons/2026-04-24-03-usestate-batching.md",
+    "README.md",
     "react-lessons"
   ]
 }
