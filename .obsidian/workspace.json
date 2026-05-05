@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react-lessons/2026-04-24-04-useeffect-lifecycle-cleanup.md",
+                "file": "sessions/2026-05-05-02-cv-merge-speroteck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-24-04-useeffect-lifecycle-cleanup"
+              "title": "2026-05-05-02-cv-merge-speroteck"
             }
           }
         ]
@@ -183,10 +183,26 @@
   },
   "active": "20d57b8c19ca4287",
   "lastOpenFiles": [
+    "entities/nikita-ilin.md",
+    "entities/ipc2u.md",
+    "entities/speroteck.md",
+    "sessions/2026-05-05-03-shopify-interview-prep.md",
+    "entities/bigcommerce-catalyst.md",
+    "entities/liquid.md",
+    "Index.md",
+    "entities/shopify-functions.md",
+    "entities/hydrogen.md",
+    "entities/shopify-plus.md",
+    "sessions/2026-05-05-01-obsidian-session-db-setup.md",
+    "sessions/2026-05-05-02-cv-merge-speroteck.md",
+    "entities/obsidian-knowledge-graph.md",
+    "entities/graphrag.md",
+    "entities",
+    "react-lessons/2026-04-24-04-useeffect-lifecycle-cleanup.md",
+    "sessions",
     "react-lessons/2026-04-24-05-useref-dom-access.md",
     "react-lessons/2026-04-24-06-usememo-usecallback.md",
     "react-lessons/2026-04-24-03-usestate-batching.md",
-    "react-lessons/2026-04-24-04-useeffect-lifecycle-cleanup.md",
     "react-lessons/2026-04-24-02-fiber-concurrent-mode.md",
     "react-lessons/2026-04-24-01-reconciliation-virtual-dom.md",
     "README.md",
