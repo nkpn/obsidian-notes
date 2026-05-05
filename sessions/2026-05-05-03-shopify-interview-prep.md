@@ -1,5 +1,6 @@
 ---
 date: 2026-05-05
+session_id: local_858f2708-46c8-4d59-9ab8-52e95783294a
 type: session
 project: shopify-interview-prep
 tags: [career, interview-prep, shopify, hydrogen, liquid, backfill]

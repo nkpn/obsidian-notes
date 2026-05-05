@@ -1,5 +1,6 @@
 ---
 date: 2026-05-05
+session_id: local_ad9051dc-77fe-427f-9779-cfb7895b9ed5
 type: session
 project: obsidian-session-db
 tags: [obsidian, knowledge-management, graphrag, setup]

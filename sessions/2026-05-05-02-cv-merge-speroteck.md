@@ -1,5 +1,6 @@
 ---
 date: 2026-05-05
+session_id: local_413ddf2e-cb26-4528-91f9-d42c050add61
 type: session
 project: cv
 tags: [career, cv, shopify, bigcommerce, backfill]
