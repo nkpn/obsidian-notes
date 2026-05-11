@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2026-05-05-02-cv-merge-speroteck.md",
+                "file": "sessions/2026-05-10-01-projects-portfolio-audit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-05-02-cv-merge-speroteck"
+              "title": "2026-05-10-01-projects-portfolio-audit"
             }
           }
         ]
@@ -183,7 +183,9 @@
   },
   "active": "20d57b8c19ca4287",
   "lastOpenFiles": [
+    "sessions/2026-05-05-03-shopify-interview-prep.md",
     "sessions/2026-05-10-01-projects-portfolio-audit.md",
+    "sessions/2026-05-05-02-cv-merge-speroteck.md",
     "entities/projects/proj-mymarbella.md",
     "entities/projects/proj-nordly-digital.md",
     "entities/projects/proj-aluline-nextjs.md",
@@ -207,8 +209,6 @@
     "entities/bopis.md",
     "entities/app-proxy-pattern.md",
     "entities/oxygen.md",
-    "entities/checkout-ui-extensions.md",
-    "entities/customer-account-ui-extensions.md",
     "entities/projects",
     "entities",
     "sessions",
