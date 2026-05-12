@@ -1,6 +1,6 @@
 ---
 type: moc
-updated: 2026-05-10
+updated: 2026-05-12
 ---
 
 # Vault Index
@@ -17,6 +17,7 @@ Map of Content for the session DB. Treat this as the entry point — Claude read
 
 ## Latest sessions
 
+- 2026-05-12 — [[2026-05-12-01-chrome-ai-model-cleanup]] — located Gemini Nano / OptGuide on-device model weights, produced delete-and-disable-flags recipe; pairs with `chrome://flags` hardening.
 - 2026-05-10 — [[2026-05-10-01-projects-portfolio-audit]] — audited all 19 working repos; built per-project entities + 6 new concept entities for senior Shopify interview prep (current).
 - 2026-05-05 — [[2026-05-05-01-obsidian-session-db-setup]] — set up this whole graph-shaped session DB.
 - 2026-05-05 — [[2026-05-05-02-cv-merge-speroteck]] *(backfill)* — merged + recruiter-tuned the Speroteck CV.
@@ -31,6 +32,11 @@ Map of Content for the session DB. Treat this as the entry point — Claude read
 - `#portfolio` → [[2026-05-10-01-projects-portfolio-audit]]
 - `#knowledge-management` → [[2026-05-05-01-obsidian-session-db-setup]]
 - `#graphrag` → [[2026-05-05-01-obsidian-session-db-setup]]
+- `#chrome` → [[2026-05-12-01-chrome-ai-model-cleanup]]
+- `#privacy` → [[2026-05-12-01-chrome-ai-model-cleanup]]
+- `#disk-cleanup` → [[2026-05-12-01-chrome-ai-model-cleanup]]
+- `#on-device-ai` → [[2026-05-12-01-chrome-ai-model-cleanup]]
+- `#gemini-nano` → [[2026-05-12-01-chrome-ai-model-cleanup]]
 
 ## Key entities
 

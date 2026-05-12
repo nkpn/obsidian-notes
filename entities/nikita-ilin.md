@@ -2,7 +2,7 @@
 type: entity
 category: person
 tags: [self]
-mentioned-in: [[2026-05-05-01-obsidian-session-db-setup]], [[2026-05-05-02-cv-merge-speroteck]], [[2026-05-05-03-shopify-interview-prep]]
+mentioned-in: [[2026-05-05-01-obsidian-session-db-setup]], [[2026-05-05-02-cv-merge-speroteck]], [[2026-05-05-03-shopify-interview-prep]], [[2026-05-12-01-chrome-ai-model-cleanup]]
 ---
 
 # Nikita Ilin
