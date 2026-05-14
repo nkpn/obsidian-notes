@@ -2,7 +2,7 @@
 type: entity
 category: api
 tags: [shopify, ui-extensions, customer-account, preact]
-mentioned-in: [[2026-05-10-01-projects-portfolio-audit]]
+mentioned-in: [[2026-05-10-01-projects-portfolio-audit]], [[2026-05-14-02-interview-self-introduction-prep]]
 ---
 
 # Customer Account UI Extensions

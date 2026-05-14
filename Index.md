@@ -1,6 +1,6 @@
 ---
 type: moc
-updated: 2026-05-12
+updated: 2026-05-14
 ---
 
 # Vault Index
@@ -17,6 +17,8 @@ Map of Content for the session DB. Treat this as the entry point — Claude read
 
 ## Latest sessions
 
+- 2026-05-14 — [[2026-05-14-02-interview-self-introduction-prep]] — drafted senior-Shopify "Tell me about yourself" + parallel-projects + PM communication + Artifi-rebuild technical-challenge + Core Web Vitals + PDP-loads-in-parts diagnostic scripts.
+- 2026-05-14 — [[2026-05-14-01-weekly-changelog-task]] — set up Monday 9am scheduled task pulling shopify.dev/changelog + developer.bigcommerce.com/changelog, grouped by impact, first run 18 May.
 - 2026-05-12 — [[2026-05-12-01-chrome-ai-model-cleanup]] — located Gemini Nano / OptGuide on-device model weights, produced delete-and-disable-flags recipe; pairs with `chrome://flags` hardening.
 - 2026-05-10 — [[2026-05-10-01-projects-portfolio-audit]] — audited all 19 working repos; built per-project entities + 6 new concept entities for senior Shopify interview prep (current).
 - 2026-05-05 — [[2026-05-05-01-obsidian-session-db-setup]] — set up this whole graph-shaped session DB.
@@ -25,10 +27,10 @@ Map of Content for the session DB. Treat this as the entry point — Claude read
 
 ## Sessions by tag
 
-- `#career` → [[2026-05-05-02-cv-merge-speroteck]], [[2026-05-05-03-shopify-interview-prep]], [[2026-05-10-01-projects-portfolio-audit]]
-- `#interview-prep` → [[2026-05-05-03-shopify-interview-prep]], [[2026-05-10-01-projects-portfolio-audit]]
-- `#shopify` → [[2026-05-05-02-cv-merge-speroteck]], [[2026-05-05-03-shopify-interview-prep]], [[2026-05-10-01-projects-portfolio-audit]]
-- `#bigcommerce` → [[2026-05-05-02-cv-merge-speroteck]], [[2026-05-10-01-projects-portfolio-audit]]
+- `#career` → [[2026-05-05-02-cv-merge-speroteck]], [[2026-05-05-03-shopify-interview-prep]], [[2026-05-10-01-projects-portfolio-audit]], [[2026-05-14-02-interview-self-introduction-prep]]
+- `#interview-prep` → [[2026-05-05-03-shopify-interview-prep]], [[2026-05-10-01-projects-portfolio-audit]], [[2026-05-14-02-interview-self-introduction-prep]]
+- `#shopify` → [[2026-05-05-02-cv-merge-speroteck]], [[2026-05-05-03-shopify-interview-prep]], [[2026-05-10-01-projects-portfolio-audit]], [[2026-05-14-01-weekly-changelog-task]], [[2026-05-14-02-interview-self-introduction-prep]]
+- `#bigcommerce` → [[2026-05-05-02-cv-merge-speroteck]], [[2026-05-10-01-projects-portfolio-audit]], [[2026-05-14-01-weekly-changelog-task]]
 - `#portfolio` → [[2026-05-10-01-projects-portfolio-audit]]
 - `#knowledge-management` → [[2026-05-05-01-obsidian-session-db-setup]]
 - `#graphrag` → [[2026-05-05-01-obsidian-session-db-setup]]
@@ -37,11 +39,17 @@ Map of Content for the session DB. Treat this as the entry point — Claude read
 - `#disk-cleanup` → [[2026-05-12-01-chrome-ai-model-cleanup]]
 - `#on-device-ai` → [[2026-05-12-01-chrome-ai-model-cleanup]]
 - `#gemini-nano` → [[2026-05-12-01-chrome-ai-model-cleanup]]
+- `#scheduled-tasks` → [[2026-05-14-01-weekly-changelog-task]]
+- `#changelog` → [[2026-05-14-01-weekly-changelog-task]]
+- `#automation` → [[2026-05-14-01-weekly-changelog-task]]
+- `#performance` → [[2026-05-14-02-interview-self-introduction-prep]]
+- `#core-web-vitals` → [[2026-05-14-02-interview-self-introduction-prep]]
+- `#communication` → [[2026-05-14-02-interview-self-introduction-prep]]
 
 ## Key entities
 
 **Concepts / Patterns**
-- [[graphrag]] · [[obsidian-knowledge-graph]] · [[bopis]] · [[app-proxy-pattern]]
+- [[graphrag]] · [[obsidian-knowledge-graph]] · [[bopis]] · [[app-proxy-pattern]] · [[core-web-vitals]]
 
 **Platforms**
 - [[shopify-plus]] · [[bigcommerce-catalyst]] · [[oxygen]] · [[fly-io]]
@@ -82,6 +90,7 @@ Map of Content for the session DB. Treat this as the entry point — Claude read
 - [[proj-aluline-nextjs]] — Next.js + Firebase marketing site (paired with aluline-shopify).
 - [[proj-nordly-digital]] — Next.js + next-intl agency site.
 - [[proj-mymarbella]] — older webpack + jQuery real-estate site.
+- [[proj-artifi-configurator]] — Astro + React + Artifi SDK PDP configurator with `productStateManager` window-bridge (rebuild from older configurator).
 
 ## Conventions (so future-Claude doesn't drift)
 
