@@ -2,7 +2,7 @@
 type: entity
 category: platform
 tags: [shopify, ecommerce, enterprise]
-mentioned-in: [[2026-05-05-02-cv-merge-speroteck]], [[2026-05-05-03-shopify-interview-prep]]
+mentioned-in: [[2026-05-05-02-cv-merge-speroteck]], [[2026-05-05-03-shopify-interview-prep]], [[2026-05-14-01-weekly-changelog-task]], [[2026-05-14-02-interview-self-introduction-prep]]
 ---
 
 # Shopify Plus

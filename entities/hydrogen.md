@@ -2,7 +2,7 @@
 type: entity
 category: framework
 tags: [shopify, react, headless, frontend]
-mentioned-in: [[2026-05-05-03-shopify-interview-prep]]
+mentioned-in: [[2026-05-05-03-shopify-interview-prep]], [[2026-05-14-02-interview-self-introduction-prep]]
 ---
 
 # Hydrogen

@@ -2,7 +2,7 @@
 type: entity
 category: company
 tags: [employer, ecommerce-agency]
-mentioned-in: [[2026-05-05-02-cv-merge-speroteck]]
+mentioned-in: [[2026-05-05-02-cv-merge-speroteck]], [[2026-05-14-02-interview-self-introduction-prep]]
 ---
 
 # Speroteck
